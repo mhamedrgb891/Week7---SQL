@@ -1,34 +1,28 @@
-
----
-
-## Week7 - SQL
-
-```markdown
-# Week 7 – SQL and Databases
+# Week 7 – Python
 
 Part of CS50x 2024 – Introduction to Computer Science by Harvard University
 
 ## Overview
-This week focused on databases and SQL. It introduced how to query, filter, and join data using relational database principles.
+This week introduced Python as a higher-level programming language. We learned how Python simplifies many programming tasks and offers powerful libraries and cleaner syntax compared to C.
 
 ## Topics Covered
-- SQL syntax: SELECT, INSERT, UPDATE, DELETE
-- Filtering and joining data
-- Database schema design
-- Use of SQLite in local projects
+- Python syntax and structure
+- Data types (lists, dicts, tuples, sets)
+- Loops and conditionals in Python
+- Functions and modules
+- File I/O and command-line arguments
 
 ## Projects
+- DNA
 - Movies
-- Fiftyville
 
 ## Key Takeaways
-- Learned how to write efficient queries to retrieve data.
-- Practiced normalizing data across multiple tables.
-- Improved debugging SQL logic and handling NULL values.
+- Gained a strong foundation in Python programming.
+- Understood how to translate logic from C to Python in a more concise way.
+- Leveraged built-in data structures like dictionaries and lists to write cleaner, faster code.
 
 ## Challenges
-Solving the Fiftyville investigation required deep understanding of JOINs and interpreting relational data.
+Working with CSV files and manipulating data in the DNA and Movies projects was a great exercise in parsing and using Python’s file handling features. It took time to adapt from C-style thinking to Pythonic approaches.
 
 ## How to Run
-```bash
-sqlite3 database.db
+python file.py
