@@ -1,6 +1,6 @@
 # Week 7 – Python
 
-Part of CS50x 2024 – Introduction to Computer Science by Harvard University
+Part of CS50x 2025 – Introduction to Computer Science by Harvard University
 
 ## Overview
 This week introduced Python as a higher-level programming language. We learned how Python simplifies many programming tasks and offers powerful libraries and cleaner syntax compared to C.
